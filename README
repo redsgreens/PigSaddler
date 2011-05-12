@@ -1,0 +1,10 @@
+PigSaddler - Make pigs spawn with saddles
+Version: v0.2
+
+Drop PigSaddler.jar into your plugins folder and restart/reload the server. It will
+automatically create it's config file in a subdirectory called PigSaddler, with a
+config.yml file in it. This file contains a list of worlds and the percentage of
+pigs that should spawn with saddles on them. If a world is not listed, then all pigs
+in that world will spawn without saddles. The plugin does not have a reload command
+of it's own, so if you change the config file, you must restart/reload the server
+itself. 
